@@ -35,7 +35,7 @@ In this lesson we will discuss pointers.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## (Chapter 6 - Input
+## Chapter 6 - Input
 In this lesson we will discuss proper input validation.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
