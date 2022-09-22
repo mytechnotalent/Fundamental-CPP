@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/mytechnotalent/Fundamental-CPP/main/Fundamental%20C%2B%2B.png)
+![image](https://github.com/mytechnotalent/Funcamental-CPP/blob/master/Fundamental%20C++.png?raw=true)
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
