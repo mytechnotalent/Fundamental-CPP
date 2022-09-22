@@ -1,6 +1,6 @@
 ![image](https://github.com/mytechnotalent/Funcamental-CPP/blob/master/Fundamental%20C++.png?raw=true)
 
-## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering)
 
 <br>
 
