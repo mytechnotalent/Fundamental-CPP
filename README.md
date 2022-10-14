@@ -8,7 +8,7 @@
 The book and code repo for the FREE Fundamental C++ book by Kevin Thomas.
 
 ## FREE Book
-[Download](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf)
+[Download](https://github.com/mytechnotalent/Fundamental-CPP/raw/master/Fundamental%20C%2B%2B.pdf)
 
 ## Chapter 1 - Hello World
 In this lesson we will discuss the basics of C++ output.
